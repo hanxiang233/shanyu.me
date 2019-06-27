@@ -79,5 +79,5 @@ theme: ylili
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:https://github.com/hanxiang233/blogs.git
+  repo:https://github.com/hanxiang233/shanyu.blogs.io.git
   branch:master
