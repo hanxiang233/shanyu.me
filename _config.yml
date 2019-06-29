@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Shanyu
+title: Hi，Shanyu
 subtitle:
 description:
 keywords:
@@ -13,9 +13,10 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://shanyu.me
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/  
+# :year/:month/:day/
 permalink_defaults:
 
 # Directory
@@ -27,6 +28,27 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+
+
+# Module
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: module/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: histoire
+  display:
+    position: left
+    width: 300
+    height: 400
+  mobile:
+    show: true
+  react:
+    opacity: 1
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -60,7 +82,7 @@ tag_map:
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
-## You can customize the date format as defined in
+## You can customize the date format as defined 
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
@@ -73,7 +95,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-sagiri
+theme: sagiri
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
