@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="684e4fa4-faf8-42e6-a222-423c2a307e68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/categories/notebook/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/notebook/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="684e4fa4-faf8-42e6-a222-423c2a307e68" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/categories/notebook/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="221" column="74" selection-start-line="221" selection-start-column="74" selection-end-line="221" selection-end-column="74" />
+              <caret line="222" column="30" selection-start-line="222" selection-start-column="26" selection-end-line="222" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -149,16 +147,15 @@
       <updated>1561949470091</updated>
       <workItem from="1561949474639" duration="35000" />
       <workItem from="1561970737255" duration="973000" />
-      <workItem from="1561978966912" duration="2951000" />
+      <workItem from="1561978966912" duration="3397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3959000" />
+    <option name="totallyTimeSpent" value="4405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22523117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -301,7 +298,7 @@
     <entry file="file://$PROJECT_DIR$/categories/notebook/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="221" column="74" selection-start-line="221" selection-start-column="74" selection-end-line="221" selection-end-column="74" />
+          <caret line="222" column="30" selection-start-line="222" selection-start-column="26" selection-end-line="222" selection-end-column="30" />
         </state>
       </provider>
     </entry>
